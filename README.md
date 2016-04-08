@@ -4,7 +4,7 @@ This project is to extract Control Flow Graphs (CFG) of the Andoird application 
 
 This project is written in Java.
 
-Eclipse is the recommended platform to use this project.
+Eclipse is the recommended platform to run this project.
 
 Before using the code of this project, you need to setup several small things first~
 
