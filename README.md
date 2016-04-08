@@ -10,9 +10,7 @@ Before using the code of this project, you need to setup several small things fi
 
 1. Download two other projects and add them to this project with the "Build Path" option when you right-click this project.
 
-2. The two projects are accessible in https://github.com/secure-software-engineering/soot-infoflow-android and 
-
-3. https://github.com/secure-software-engineering/soot-infoflow
+2. The two projects are accessible in https://github.com/secure-software-engineering/soot-infoflow-android and https://github.com/secure-software-engineering/soot-infoflow
 
 3. 
 
