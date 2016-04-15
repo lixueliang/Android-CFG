@@ -1,6 +1,6 @@
 # Android-CFG
 
-This project is to extract Control Flow Graphs (CFG) of the Andoird application source code.
+This project is to extract Control Flow Graphs (CFG) from the Andoird application apk.
 
 This project is written in Java.
 
@@ -10,7 +10,7 @@ Before using the code of this project, you need to setup several small things fi
 
 1. Two projects are needed first and accessible in https://github.com/secure-software-engineering/soot-infoflow-android and https://github.com/secure-software-engineering/soot-infoflow
 
-2. Download two other projects and add them to this project with the "Build Path" option when you right-click this project.
+2. Download those two projects and add them to this project by using the "Build Path" option when you right-click this project.
 
 3. The soot packages are required to add to the "Build Path", which are able to be found in the "required soot packages" folder in GitHub. 
 
